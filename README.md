@@ -1,6 +1,4 @@
-🐍 LeetCode Çözümleri (Python)
+🐍 Solutions of LeetCode (Python)
 
-Bu bölümde LeetCode üzerinde çözdüğüm soruların Python çözümlerini paylaşıyorum.
-Amacım sadece doğru cevabı bulmak değil, problemin mantığını anlamak ve temiz kod yazmak.
+I try to solve algorithms from leetcode every day and I will share the solutions of the questions here which I solved.
 
-Her gün bir adım ileri. ⚡
